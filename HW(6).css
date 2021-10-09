@@ -1,0 +1,63 @@
+.design{
+    max-width: 300px;
+    display: inline-block;
+    margin: 60px ;
+}
+
+.customize{
+    max-width: 300px;
+    display: inline-block;
+    margin: 60px;
+}
+
+.fast{
+    max-width: 300px;
+    display: inline-block;
+    margin: 60px ;
+}
+
+p{
+    text-align: center;
+}
+
+span{
+    text-transform: uppercase;
+    text-align: center;
+    display: block;
+    padding: 14px;
+}
+
+
+.atom{
+    transition: ease-in-out 0.3s;
+}
+
+.atom:hover{
+    background-color: #2a69a6;
+    transition: ease-in-out 0.3s;   
+}
+
+.phone{
+    transition: ease-in-out 0.3s;
+}
+
+.phone:hover{
+    background-color: #2a69a6;
+    transition: ease-in-out 0.3s; 
+}
+
+.weblogo{
+    
+    transition: ease-in-out 0.3s;   
+}
+
+.weblogo:hover{
+    background-color: #2a69a6;
+    transition: ease-in-out 0.3s;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
